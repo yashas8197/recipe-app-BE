@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Pizza Hut",
+    "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹350 for two",
+    "cuisines": ["Pizzas"],
+    "avgRating": 4.1,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 26,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/1fe8039a-0a1a-41f8-8db1-f3521ba8fada_23678.jpg",
+    "locality": "5th Block",
+    "areaName": "Koramangala",
+    "costForTwo": "₹400 for two",
+    "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+    "avgRating": 4.5,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 23,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "UBQ by Barbeque Nation",
+    "cloudinaryImageId": "gsjdnjaohsvbbp0uspfz",
+    "locality": "Indiranagar",
+    "areaName": "Indiranagar",
+    "costForTwo": "₹300 for two",
+    "cuisines": ["Barbecue", "Biryani", "Kebabs", "Mughlai", "Desserts"],
+    "avgRating": 4,
+    "totalRatingsString": "5K+",
+    "deliveryTime": 43,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "KFC",
+    "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4",
+    "locality": "Intermediate Ring Road",
+    "areaName": "Ejipura",
+    "costForTwo": "₹400 for two",
+    "cuisines": ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+    "avgRating": 4.2,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 18,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Burger King",
+    "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹350 for two",
+    "cuisines": ["Burgers", "American"],
+    "avgRating": 4.3,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 25,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Samosa Party",
+    "cloudinaryImageId": "d8d4e708a41f011361c949d44990d5e0",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹100 for two",
+    "cuisines": [
+      "Fast Food",
+      "Snacks",
+      "Beverages",
+      "Chaat",
+      "North Indian",
+      "Street Food",
+      "Sweets",
+      "Desserts",
+      "Punjabi",
+      "Bakery"
+    ],
+    "avgRating": 4.3,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 33,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Domino's Pizza",
+    "cloudinaryImageId": "d0450ce1a6ba19ea60cd724471ed54a8",
+    "locality": "4th Block",
+    "areaName": "Koramangala",
+    "costForTwo": "₹400 for two",
+    "cuisines": ["Pizzas", "Italian", "Pastas", "Desserts"],
+    "avgRating": 4.4,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 25,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Chaayos Chai+Snacks=Relax",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/9/1dbdf671-cbed-4fc1-8b43-faa0165112e9_263485.JPG",
+    "locality": "Kormangala 8th Block",
+    "areaName": "Kormangala",
+    "costForTwo": "₹250 for two",
+    "cuisines": [
+      "Bakery",
+      "Beverages",
+      "Chaat",
+      "Desserts",
+      "Home Food",
+      "Italian",
+      "Maharashtrian",
+      "Snacks",
+      "Street Food",
+      "Sweets"
+    ],
+    "avgRating": 4.5,
+    "totalRatingsString": "1K+",
+    "deliveryTime": 19,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Leon's - Burgers & Wings (Leon Grill)",
+    "cloudinaryImageId": "b2edbc28b7b8219d6e0a9c049ce06658",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹300 for two",
+    "cuisines": ["American", "Snacks", "Turkish", "Portuguese", "Continental"],
+    "avgRating": 4.4,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 24,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Candice's Gourmet Sandwiches & Wraps",
+    "cloudinaryImageId": "d1331113564b015c9d55c48ff48a2553",
+    "locality": "5th Block",
+    "areaName": "Koramangala",
+    "costForTwo": "₹600 for two",
+    "cuisines": [
+      "Continental",
+      "American",
+      "Salads",
+      "Desserts",
+      "Beverages",
+      "Healthy Food"
+    ],
+    "avgRating": 4.5,
+    "totalRatingsString": "1K+",
+    "deliveryTime": 26,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Chinita Real Mexican Food",
+    "cloudinaryImageId": "29fc772cc06b07a4b018e4971d96c9a3",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹750 for two",
+    "cuisines": ["Mexican", "Salads", "Desserts", "Beverages"],
+    "avgRating": 4.5,
+    "totalRatingsString": "5K+",
+    "deliveryTime": 25,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Brik Oven - Original Sourdough Pizzas",
+    "cloudinaryImageId": "cfd91d48ef7c4056be69ec15720f03e7",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹700 for two",
+    "cuisines": ["Italian", "Pizzas", "Desserts", "Beverages"],
+    "avgRating": 4.4,
+    "totalRatingsString": "5K+",
+    "deliveryTime": 34,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Ambur Star Briyani Since 1890",
+    "cloudinaryImageId": "yktanq9i7yfjrixaghuj",
+    "locality": "2nd Stage",
+    "areaName": "BTM Layout",
+    "costForTwo": "₹500 for two",
+    "cuisines": ["Biryani", "Chettinad", "Andhra", "Beverages", "Seafood"],
+    "avgRating": 4.4,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 30,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "A2B - Adyar Ananda Bhavan",
+    "cloudinaryImageId": "gxe4mn4ubw70yx3flyar",
+    "locality": "1st Stage",
+    "areaName": "Btm Layout",
+    "costForTwo": "₹300 for two",
+    "cuisines": ["South Indian", "North Indian", "Sweets", "Chinese"],
+    "avgRating": 4.5,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 33,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Natural Ice Cream",
+    "cloudinaryImageId": "wbjc2dzgqskcxgfzk4fc",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹150 for two",
+    "cuisines": ["Ice Cream", "Desserts"],
+    "avgRating": 4.8,
+    "totalRatingsString": "10K+",
+    "deliveryTime": 17,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "NIC Ice Creams",
+    "cloudinaryImageId": "18d8b8fb6bac8063a6fa886e20148110",
+    "locality": "8th Block",
+    "areaName": "Koramangala",
+    "costForTwo": "₹120 for two",
+    "cuisines": ["Ice Cream", "Desserts"],
+    "avgRating": 4.7,
+    "totalRatingsString": "5K+",
+    "deliveryTime": 19,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Soul Rasa",
+    "cloudinaryImageId": "xoth5ysuv2r6ctizaso5",
+    "locality": "Jakkasandra",
+    "areaName": "Koramangala",
+    "costForTwo": "₹400 for two",
+    "cuisines": [
+      "Indian",
+      "Healthy Food",
+      "Home Food",
+      "South Indian",
+      "North Indian"
+    ],
+    "avgRating": 4.5,
+    "totalRatingsString": "5K+",
+    "deliveryTime": 26,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  },
+  {
+    "name": "Krispy Kreme",
+    "cloudinaryImageId": "3e93431f120ab7661854cb6441f64d39",
+    "locality": "100 Ft intermediate Ring Road",
+    "areaName": "Koramangala",
+    "costForTwo": "₹170 for two",
+    "cuisines": ["Desserts", "Beverages"],
+    "avgRating": 4.4,
+    "totalRatingsString": "1K+",
+    "deliveryTime": 18,
+    "ingredients": "For the dough: all-purpose flour, yeast, warm water, salt, sugar, olive oil. For the topping: pizza sauce, shredded mozzarella cheese, your choice of toppings like pepperoni, mushrooms, bell peppers, onions.",
+    "instructions": [
+      "Prepare the dough by combining warm water and yeast, then mix with flour, salt, sugar, and olive oil. Knead the dough and let it rise.",
+      "Preheat the oven to 475°F (245°C). Roll out the dough and transfer it to a baking sheet.",
+      "Spread pizza sauce evenly over the dough, then add shredded mozzarella cheese and your preferred toppings.",
+      "Bake in the preheated oven for 10-12 minutes until the crust is golden and the cheese is melted.",
+      "Remove from the oven, let it cool slightly, slice, and serve."
+    ]
+  }
+]
